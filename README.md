@@ -17,4 +17,4 @@ https://drive.google.com/drive/u/1/folders/1-UzT5PvxPoGkT_3TTTkqFbx66cVvgw9e?ths
 + [Демонстрация автопилота для манёвров при приближении к Луне и посадки](https://www.youtube.com/watch?v=c3EbTyQtKcA)
 + [Отчетное видео](https://www.youtube.com/watch?v=Vl--_uFOy2A)
 # Ссылка на оригинал отчета
-https://docs.google.com/document/d/1HiIy_gjdQS-amkL0CV6StfUydEmYCbPPQSFctWbybZ0/edit
+https://docs.google.com/document/d/16Cu4La2tPY8N9l4rxXnZtYjPVIv29FEfQia-mlSI_lU/edit
