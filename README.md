@@ -6,6 +6,8 @@
 ![krasivo](https://i.postimg.cc/cC6ktCR8/image-2023-12-21-01-47-50.png)
 # Программы
 1. Программы для автопилота написаны на языке Python
++ [Автопилот для взлета с Земли](https://github.com/kloshka/Chandrayan-3/blob/main/autopilot_for_earth.py)
++ [Автопилост для взлета с Луны](https://github.com/kloshka/Chandrayan-3/blob/main/autopilt_for_moon.py]
 2. Программа для построения графиков по матмодели
 + [Построение графиков](https://github.com/kloshka/Chandrayan-3/blob/main/%D0%B2%D0%B0%D1%80%D0%BA%D1%82%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.py)
 # Ссылки на материал проекта и отчет
