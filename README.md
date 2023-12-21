@@ -13,4 +13,8 @@
 # Ссылки на материал проекта и отчет
 https://drive.google.com/drive/u/1/folders/1-UzT5PvxPoGkT_3TTTkqFbx66cVvgw9e?ths=true
 # Ссылка на видеоотчет на YouTube
++ [Демонстрация автопилота для на орбиту](https://www.youtube.com/watch?v=6JwoANRRaR4)
++ [Демонстрация автопилота для манёвров при приближении к Луне и посадки](https://www.youtube.com/watch?v=c3EbTyQtKcA)
++ [Отчетное видео](https://www.youtube.com/watch?v=Vl--_uFOy2A)
 # Ссылка на оригинал отчета
+https://docs.google.com/document/d/1HiIy_gjdQS-amkL0CV6StfUydEmYCbPPQSFctWbybZ0/edit
